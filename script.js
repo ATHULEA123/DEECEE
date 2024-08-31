@@ -1,9 +1,4 @@
 
-// function formopen() {
-//     const addemployeeform = document.getElementById("employeeform");
-//     addemployeeform.style.display = "block";
-//     overlayOn();
-//   }
   document.addEventListener('DOMContentLoaded', function () {
     // Select elements
     const hamburger = document.querySelector('.hamburger');
